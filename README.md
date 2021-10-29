@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chinelorita
 - 👀 I’m interested in Data science projects
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Python projects,R Statistical analysis and Databases management 
+- 💞️ I’m looking to collaborate on Python projects,Statistical analysis with R and Databases management 
 - 📫 How to reach me, via mail @ chinelorita2015@gmail.com
 
 <!---
